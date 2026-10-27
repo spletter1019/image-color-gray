@@ -1,0 +1,6 @@
+{
+  "name": "컬러 이미지의 회색조 변환 실습실",
+  "description": "구글 시트 채우기 색상 기능과 1x3 RGB 행렬의 평균 계산식을 이용한 실시간 회색조 이미지 변환 수학 실습 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
